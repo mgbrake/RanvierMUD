@@ -4,9 +4,13 @@
     {
       "username": "Admin",
       "deleted": false
+    },
+    {
+      "username": "Locke",
+      "deleted": false
     }
   ],
-  "password": "$2a$10$kE4d5oRcQOCksbKHur7nbezcGD6gUil/cqkwhGagfM1u4WfhDjR8.",
+  "password": "$2a$10$qyi2wl9WQbn/z6BIohXZZu3Tu/jHEhzloKaTxjwPHIHvI1TNN4KJi",
   "banned": false,
   "deleted": false,
   "metadata": {}
