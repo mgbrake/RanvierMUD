@@ -1,5 +1,5 @@
 {
-  "username": "Admin",
+  "username": "Setup",
   "characters": [
     {
       "username": "Admin",
@@ -10,7 +10,7 @@
       "deleted": false
     }
   ],
-  "password": "$2a$10$qyi2wl9WQbn/z6BIohXZZu3Tu/jHEhzloKaTxjwPHIHvI1TNN4KJi",
+  "password": "$2a$10$VohUaHBRj2vOy2F.DPpXv.NE/e3RrSwVHf81D4tJHaavtPRUf5PNG",
   "banned": false,
   "deleted": false,
   "metadata": {}

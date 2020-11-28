@@ -18,7 +18,8 @@
     "player-groups",
     "progressive-respawn",
     "telnet-networking",
-    "websocket-networking"
+    "websocket-networking",
+    "restful-networking"
   ],
   "dataSources": {
     "YamlArea": {
@@ -82,7 +83,22 @@
       "config": {
         "path": "bundles/[BUNDLE]/help"
       }
+    },
+
+    "loot-pools": {
+      "source": "Yaml",
+      "config": {
+        "path": "bundles/[BUNDLE]/areas/[AREA]/loot-pools.yml"
+      }
+    },
+
+    "loggedOffEvents": {
+      "source": "JsonDirectory",
+      "config": {
+        "path": "data/loggedOffEvents"
+      }
     }
+
   },
   "maxAccountNameLength": 20,
   "minAccountNameLength": 3,
@@ -94,5 +110,5 @@
   "moveCommand": "move",
   "skillLag": 2000,
   "defaultMaxPlayerInventory": 16,
-  "maxIdleTime": 20
+  "maxIdleTime": 5
 }

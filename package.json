@@ -17,17 +17,18 @@
     "install-bundle": "node ./util/install-bundle.js"
   },
   "dependencies": {
-    "commander": "^2.19.0",
-    "optimist": "",
-    "ranvier": "^3.0.5",
+    "commander": "^2.20.3",
+    "minimist": "^cd1.2.5",
+    "optimist": "^0.6.1",
+    "ranvier": "^3.0.6",
     "ranvier-datasource-file": "^1.0.3",
-    "semver": "^5.6.0",
+    "semver": "^5.7.1",
     "sprintf-js": "^1.0.3",
     "sty": "",
-    "uuid": "^3.3.2",
-    "winston": "^2.4.4"
+    "uuid": "^3.4.0",
+    "winston": "^2.4.5"
   },
   "devDependencies": {
-    "git-url-parse": "^11.1.2"
+    "git-url-parse": "^11.4.0"
   }
 }

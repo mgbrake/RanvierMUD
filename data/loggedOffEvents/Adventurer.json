@@ -1,0 +1,25 @@
+{
+  "loggedOffEvents": [
+    {
+      "type": "textoutput",
+      "message": "A Rat wanders east.\r\n\u001b[0m",
+      "metadata": {
+        "datetime": 1606605066492
+      }
+    },
+    {
+      "type": "textoutput",
+      "message": "A Rat wanders in.\r\n\u001b[0m",
+      "metadata": {
+        "datetime": 1606605086521
+      }
+    },
+    {
+      "type": "textoutput",
+      "message": "A Rat wanders east.\r\n\u001b[0m",
+      "metadata": {
+        "datetime": 1606605206763
+      }
+    }
+  ]
+}
