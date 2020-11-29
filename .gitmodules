@@ -55,3 +55,6 @@
 [submodule "bundles/lootable-npcs"]
 	path = bundles/lootable-npcs
 	url = https://github.com/RanvierMUD/lootable-npcs
+[submodule "bundles/restful-networking"]
+	path = bundles/restful-networking
+	url = https://github.com/mgbrake/restful-networking
