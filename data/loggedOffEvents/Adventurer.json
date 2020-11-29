@@ -2,23 +2,23 @@
   "loggedOffEvents": [
     {
       "type": "textoutput",
-      "message": "A Rat wanders east.\r\n\u001b[0m",
-      "metadata": {
-        "datetime": 1606605066492
-      }
-    },
-    {
-      "type": "textoutput",
       "message": "A Rat wanders in.\r\n\u001b[0m",
       "metadata": {
-        "datetime": 1606605086521
+        "datetime": 1606609532492
       }
     },
     {
       "type": "textoutput",
       "message": "A Rat wanders east.\r\n\u001b[0m",
       "metadata": {
-        "datetime": 1606605206763
+        "datetime": 1606609813453
+      }
+    },
+    {
+      "type": "textoutput",
+      "message": "You were kicked for being idle for more than 5 minutes!\r\n\u001b[0m",
+      "metadata": {
+        "datetime": 1606609814990
       }
     }
   ]
