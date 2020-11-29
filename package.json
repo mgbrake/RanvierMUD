@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "commander": "^2.20.3",
-    "minimist": "^cd1.2.5",
+    "minimist": "^1.2.5",
     "optimist": "^0.6.1",
     "ranvier": "^3.0.6",
     "ranvier-datasource-file": "^1.0.3",
