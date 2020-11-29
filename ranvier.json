@@ -18,8 +18,7 @@
     "player-groups",
     "progressive-respawn",
     "telnet-networking",
-    "websocket-networking",
-    "restful-networking"
+    "websocket-networking"
   ],
   "dataSources": {
     "YamlArea": {
@@ -84,21 +83,18 @@
         "path": "bundles/[BUNDLE]/help"
       }
     },
-
     "loot-pools": {
       "source": "Yaml",
       "config": {
         "path": "bundles/[BUNDLE]/areas/[AREA]/loot-pools.yml"
       }
     },
-
     "loggedOffEvents": {
       "source": "JsonDirectory",
       "config": {
         "path": "data/loggedOffEvents"
       }
     }
-
   },
   "maxAccountNameLength": 20,
   "minAccountNameLength": 3,
