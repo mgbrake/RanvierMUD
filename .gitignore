@@ -4,6 +4,8 @@ data/player/*.json
 data/account/*.json
 !data/account/Admin.json
 !data/player/Admin.json
+!data/account/User.json
+!data/player/User.json
 *.swp
 coverage/
 *.logs

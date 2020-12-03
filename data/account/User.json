@@ -1,12 +1,8 @@
 {
-  "username": "Setup",
+  "username": "User",
   "characters": [
     {
-      "username": "Admin",
-      "deleted": false
-    },
-    {
-      "username": "Locke",
+      "username": "Adventurer",
       "deleted": false
     }
   ],
